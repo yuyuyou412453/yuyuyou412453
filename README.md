@@ -1,16 +1,43 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
-**yuyuyou412453/yuyuyou412453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+记录一些工程、代码与技术探索。
 
-Here are some ideas to get you started:
+**Signal Processing · Edge AI · Embedded Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 关注方向
+
+- 信号与图像处理
+- Edge AI 与端侧部署
+- 嵌入式系统开发
+- C/C++ 与 Python
+- 模型量化、推理优化与性能测试
+
+---
+
+## 项目
+
+### 信号处理 / 图像处理
+
+#### [Ciphertext Cropping Enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
+
+图像增强与恢复相关研究项目。
+
+`MATLAB` `图像处理` `信号处理`
+
+---
+
+### Web 项目
+
+#### [星智行 Web 看板](https://github.com/yuyuyou412453/xingzhixing-website)
+
+设备遥测、状态展示与云端数据可视化项目。
+
+`JavaScript` `Vercel` `Supabase` `Web`
+
+#### [CarbonTradeX](https://github.com/yuyuyou412453/CarbonTradeX)
+
+碳交易相关 Web 页面与可视化项目。
+
+`HTML` `CSS` `JavaScript` `Vercel`
