@@ -44,7 +44,7 @@
 ---
 
 ### 信号处理 / Edge AI
-#### Tiny IMU Gesture Recognition｜进行中
+#### tiny-imu-gesture-recognition(https://github.com/yuyuyou412453/tiny-imu-gesture-recognition)｜进行中
 
 基于六轴 IMU 时序信号的端侧轻量手势识别
 
