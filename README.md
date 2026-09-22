@@ -21,7 +21,7 @@
 
 #### [ciphertext-cropping-enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
 
-密文裁剪攻击下的解密图像增强项目。
+密文裁剪攻击下的解密图像增强研究
 
 `MATLAB` `图像处理` `信号处理`
 
@@ -31,7 +31,7 @@
 
 #### [xingzhixing-website](https://github.com/yuyuyou412453/xingzhixing-website)
 
-设备遥测、状态展示与云端数据可视化项目。
+星智行智慧交通电子路牌系统的 Web 可视化与云端数据交互平台
 
 `JavaScript` `Vercel` `Supabase` `Web`
 
