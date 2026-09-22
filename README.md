@@ -19,7 +19,7 @@
 
 ### 信号处理 / 图像处理
 
-#### [ciphertext-cropping-enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
+#### [Ciphertext Cropping Enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
 
 密文裁剪攻击下的解密图像增强研究
 
@@ -29,7 +29,7 @@
 
 ### Web 
 
-#### [xingzhixing-website](https://github.com/yuyuyou412453/xingzhixing-website)
+#### [XingZhixing Website](https://github.com/yuyuyou412453/xingzhixing-website)
 
 设备遥测、状态展示与云端数据可视化
 
@@ -44,7 +44,7 @@
 ---
 
 ### 信号处理 / Edge AI
-#### [tiny-imu-gesture-recognition](https://github.com/yuyuyou412453/tiny-imu-gesture-recognition)｜进行中
+#### [Tiny IMU Gesture Recognition](https://github.com/yuyuyou412453/tiny-imu-gesture-recognition)｜进行中
 
 基于六轴 IMU 时序信号的端侧轻量手势识别
 
