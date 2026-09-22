@@ -31,13 +31,13 @@
 
 #### [xingzhixing-website](https://github.com/yuyuyou412453/xingzhixing-website)
 
-星智行智慧交通电子路牌系统的 Web 可视化与云端数据交互平台
+设备遥测、状态展示与云端数据可视化
 
 `JavaScript` `Vercel` `Supabase` `Web`
 
 #### [CarbonTradeX](https://github.com/yuyuyou412453/CarbonTradeX)
 
-碳交易相关 Web 页面与可视化项目。
+碳交易相关 Web 页面与可视化
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
@@ -46,7 +46,7 @@
 ### 信号处理 / Edge AI
 #### Tiny IMU Gesture Recognition｜计划中
 
-基于六轴 IMU 时序信号的端侧轻量手势识别项目。
+基于六轴 IMU 时序信号的端侧轻量手势识别
 
 重点：时序信号预处理、1D CNN、模型量化与 MCU 实时部署。
 
@@ -54,7 +54,7 @@
 
 #### Edge Vibration Fault Diagnosis｜计划中
 
-基于振动信号的边缘端故障诊断项目。
+基于振动信号的边缘端故障诊断
 
 重点：滤波、FFT / STFT、故障特征分析、轻量模型与端侧推理。
 
@@ -66,7 +66,7 @@
 
 #### Edge Vision Anomaly Detection｜计划中
 
-面向工业视觉异常检测的端侧部署项目。
+面向工业视觉异常检测的端侧部署
 
 重点：图像处理、轻量视觉模型、模型压缩、ONNX / C++ 推理与 Embedded Linux 部署。
 
