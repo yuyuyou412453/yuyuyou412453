@@ -27,9 +27,9 @@
 
 ---
 
-### Web 项目
+### Web 
 
-#### [星智行 Web 看板](https://github.com/yuyuyou412453/xingzhixing-website)
+#### [xingzhixing-website](https://github.com/yuyuyou412453/xingzhixing-website)
 
 设备遥测、状态展示与云端数据可视化项目。
 
