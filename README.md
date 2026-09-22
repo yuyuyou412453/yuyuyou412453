@@ -19,7 +19,7 @@
 
 ### 信号处理 / 图像处理
 
-#### [Ciphertext Cropping Enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
+#### [ciphertext-cropping-enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
 
 密文裁剪攻击下的解密图像增强项目。
 
