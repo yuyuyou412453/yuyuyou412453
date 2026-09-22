@@ -9,10 +9,9 @@
 ## 关注方向
 
 - 信号与图像处理
+- AI for Signal Processing
 - Edge AI 与端侧部署
-- 嵌入式系统开发
-- C/C++ 与 Python
-- 模型量化、推理优化与性能测试
+- 嵌入式系统与软硬件协同
 
 ---
 
@@ -22,7 +21,7 @@
 
 #### [Ciphertext Cropping Enhancement](https://github.com/yuyuyou412453/ciphertext-cropping-enhancement)
 
-图像增强与恢复相关研究项目。
+密文裁剪攻击下的解密图像增强项目。
 
 `MATLAB` `图像处理` `信号处理`
 
